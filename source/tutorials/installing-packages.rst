@@ -3,6 +3,7 @@
 ===================
 Installing Packages
 ===================
+when you come this page you should see how it is looking
 
 This section covers the basics of how to install Python :term:`packages
 <Distribution Package>`.
